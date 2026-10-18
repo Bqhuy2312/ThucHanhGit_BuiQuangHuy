@@ -1,1 +1,5 @@
+HEAD
 Noi dung tren branch main
+Noi dung da hop nhat tu main vaf conflicht_branch
+Noi dung tren nhanh conflicht
+conflicht_branch
